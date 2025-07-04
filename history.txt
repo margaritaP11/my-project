@@ -1,0 +1,42 @@
+history
+> ~/.zsh_history 
+fc -R /dev/null
+history
+histiry
+history
+git clone git@github.com:margaritaP11/my-project.git
+cd my-project
+echo "node_modules/" > .gitignore
+echo "My study project" > README.md
+git status
+git add .
+git status
+git commit -m "Added .gitignore and README.md"
+git branch
+git push -u origin main\n
+git checkout -b feature
+git branch
+ls -la
+nano .gitignore
+nano .README.md
+git log main -- README.md
+git branch
+nano README.md
+git status
+git add .
+git status
+git commit -m "Initial commit with README.md and gitignore"
+git push origin feature
+git commit --amend -m "Initial commit with README.md and gitignore (ammend)"
+git push origin feature --force
+git checkout main
+git branch
+fit merge feature
+git merge feature
+git push origin main
+nano README.md
+git status
+history > history.txt
+cat history.txt
+history | head -n 38 > history.txt
+cat history.txt
